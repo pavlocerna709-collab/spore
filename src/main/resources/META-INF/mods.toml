@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="sigmaspores"
+version="${file.jarVersion}"
+displayName="Sigma Spore Plague"
+description='''
+Грибной апокалипсис. Споры заражают мобов, жителей и тебя самого.
+Зараженный превращается в грибного зомби. Лечится только Антиспоровой сывороткой.
+'''
+
+[[dependencies.sigmaspores]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.sigmaspores]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"

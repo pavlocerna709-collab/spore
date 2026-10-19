@@ -1,0 +1,14 @@
+{
+  "block.sigmaspores.infected_mass": "Заражённая масса",
+  "block.sigmaspores.fungal_core": "Ядро грибницы",
+  "item.sigmaspores.antispore_serum": "Сигма-сыворотка от спор",
+  "item.sigmaspores.spore_zombie_spawn_egg": "Яйцо призыва грибного зомби",
+  "entity.sigmaspores.spore_zombie": "Грибной зомби",
+  "effect.sigmaspores.spore_infection": "Заражение спорами",
+  "death.attack.sigmaspores.spore": "%1$s поглотили грибы",
+  "gamerule.sigmaSporeSpread": "Заражённые блоки распространяются",
+  "message.sigmaspores.infected": "Ты вдохнул споры. Скибиди-гриб уже внутри тебя...",
+  "message.sigmaspores.stage1": "В горле першит. Внутри что-то растёт.",
+  "message.sigmaspores.stage2": "Силы уходят. Грибы лезут сквозь кожу.",
+  "message.sigmaspores.stage3": "Ты почти не человек. Срочно ищи сыворотку!"
+}

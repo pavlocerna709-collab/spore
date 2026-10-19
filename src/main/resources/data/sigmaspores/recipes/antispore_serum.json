@@ -1,0 +1,3 @@
+{"type":"minecraft:crafting_shapeless",
+ "ingredients":[{"item":"minecraft:glass_bottle"},{"item":"minecraft:golden_apple"},{"item":"minecraft:fermented_spider_eye"}],
+ "result":{"item":"sigmaspores:antispore_serum"}}

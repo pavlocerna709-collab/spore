@@ -1,0 +1,14 @@
+{
+  "block.sigmaspores.infected_mass": "Infected Mass",
+  "block.sigmaspores.fungal_core": "Fungal Core",
+  "item.sigmaspores.antispore_serum": "Sigma Antispore Serum",
+  "item.sigmaspores.spore_zombie_spawn_egg": "Spore Zombie Spawn Egg",
+  "entity.sigmaspores.spore_zombie": "Spore Zombie",
+  "effect.sigmaspores.spore_infection": "Spore Infection",
+  "death.attack.sigmaspores.spore": "%1$s was consumed by the fungus",
+  "gamerule.sigmaSporeSpread": "Infected blocks spread",
+  "message.sigmaspores.infected": "You inhaled spores. The fungus is already inside you...",
+  "message.sigmaspores.stage1": "Your throat itches. Something is growing inside.",
+  "message.sigmaspores.stage2": "You are getting weak. Mushrooms push through your skin.",
+  "message.sigmaspores.stage3": "You are almost not human anymore. Find the serum NOW."
+}
