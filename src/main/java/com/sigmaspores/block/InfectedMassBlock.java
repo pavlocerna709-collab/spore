@@ -20,6 +20,7 @@ public class InfectedMassBlock extends Block {
     @Override
     public void randomTick(BlockState state, ServerWorld world, BlockPos pos, Random rand) {
         if (!world.getGameRules().getBoolean(ModGameRules.SPREAD)) return;
+        if (!ModGameRules.SPREAD_ENABLED) return;
         for (int i = 0; i < attempts; i++) {
             BlockPos target = pos.offset(rand.nextInt(3) - 1, rand.nextInt(3) - 1, rand.nextInt(3) - 1);
             tryInfect(world, target, rand);
